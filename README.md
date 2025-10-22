@@ -25,21 +25,31 @@ I’m a detail-oriented QA professional turned data enthusiast. I combine analyt
 
 ## 🚀 Selected Projects
 
-### 1. Sales Performance Dashboard (Power BI)
+---
 
-* Interactive dashboard tracking regional sales, product performance, and revenue trends.
-* Identified underperforming regions and opportunities to increase revenue.
+### 1. Sales & Logistics Performance Dashboard (Power BI)
 
-### 2. Time Analysis & Customer Behavior (Excel + SQL)
+* **Interactive dashboard** tracking regional sales, product performance, and revenue trends for an e-commerce platform (**Shop Nest**).
+* Identified a strong **negative correlation** between increased order processing/fulfillment delay and customer satisfaction/repeat purchase rates using **Statistical Modeling (Regression Analysis)**.
+* Developed a dynamic Power BI dashboard that provided real-time visibility into logistics bottlenecks and delay impacts, recommending **targeted process improvements** for high-delay regions.
 
-* Analyzed purchase times and customer activity to suggest optimal marketing windows.
-* Reduced stockouts by recommending inventory adjustments based on trends.
+---
 
-### 3. KPI & Business Problem Identification Dashboard (Power BI)
+### 2. Transaction Latency & Failure Analysis (Excel + Statistical Modeling)
 
-* Built KPI-driven reports to surface operational bottlenecks and priority areas.
-* Supported stakeholders with weekly actionable insights.
+* Analyzed UPI payment transaction logs for **PhonePe** to isolate failure rates by time of day, day of week, bank partner, and transaction type.
+* Pinpointed specific banks and system bottlenecks responsible for a critical spike in payment failure rates (**up to 25% increase**) during weekend peak hours.
+* The recommendations led to targeted capacity planning and re-routing strategies, projecting a **1.8 percentage point reduction** in peak-hour transaction failure rate (a **25% reduction** in the failure spike).
 
+---
+
+### 3. Employee Performance Modeling & Talent Pipeline (Python)
+
+* Built a quantifiable performance model using **Python (Pandas, Numpy)** to compare employee performance based on project completion rate versus target timelines.
+* Utilized Python to process and merge diverse employee project datasets, handling missing values and standardizing time-to-completion metrics.
+* Enabled the identification of the **top 15%** of high-potential employees who consistently outperformed time metrics, streamlining the talent pipeline for leadership roles.
+
+---
 ---
 
 ## 📈 What I’m Learning
